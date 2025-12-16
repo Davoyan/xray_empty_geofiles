@@ -1,10 +1,10 @@
 module github.com/v2fly/domain-list-community
 
-go 1.19
+go 1.23
 
 require (
 	github.com/v2fly/v2ray-core/v5 v5.15.3
-	google.golang.org/protobuf v1.34.0
+	google.golang.org/protobuf v1.36.11
 )
 
 require (
